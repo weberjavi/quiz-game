@@ -1,0 +1,1 @@
+{"questions":[{"id":2,"prompt":"Which is France's capital?","answer":"Paris","points":1,"neg_points":-3},{"id":3,"prompt":"In wich city are the head quarters of the United Nations","answer":"New York","points":2,"neg_points":-2},{"id":4,"prompt":"what was the name of Kublai Khan's Mongol empire capital?","answer":"Xanadu","points":3,"neg_points":-1}],"user":"javi"}
